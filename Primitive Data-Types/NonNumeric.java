@@ -1,4 +1,4 @@
-class NonMumeric
+class NonNumeric
 {
     public static void main(String[] args)
     {
@@ -7,6 +7,9 @@ class NonMumeric
 
         char c='s'; //initialization of character
         System.out.println(c);
+
+        String s="Sachin Kumar"; //initialization of string
+        System.out.println(s);
 
         byte bl=-128; //minimum limit of byte
         System.out.println(bl);
